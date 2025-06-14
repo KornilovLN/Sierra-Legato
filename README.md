@@ -11,5 +11,6 @@
 ## LEGATO (информация.md):
 * **[instr.md](legato-md/instr.md)**
 * **[step-by-step.md](legato-md/step-by-step.md)**
+* **[developer-studio.md](legato-md/developer-studio.md)**
 
 ## В папке html - дополнительная информация. 
